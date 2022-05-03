@@ -27,6 +27,6 @@ Hello. My name is Sergey Kushneryuk
  * Master's degree in Europe in ML/DS
 
 ### My contacts
- * [Mail](mailto:skushneryuk@gmail.com) and [Mail](mailto:kushneriuk.ss@phystech.edu)
+ * [Preferred mail](mailto:skushneryuk@gmail.com) and [Second mail](mailto:kushneriuk.ss@phystech.edu)
  * [Telegram](t.me/skushneryuk)
  * [LinkedIn](https://www.linkedin.com/in/skushneryuk/?locale=en_US)
