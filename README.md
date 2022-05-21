@@ -28,5 +28,5 @@ Hello. My name is Sergey Kushneryuk
 
 ### My contacts
  * [Preferred mail](mailto:skushneryuk@gmail.com) and [Second mail](mailto:kushneriuk.ss@phystech.edu)
- * [Telegram](t.me/skushneryuk)
+ * [Telegram](https://t.me/skushneryuk)
  * [LinkedIn](https://www.linkedin.com/in/skushneryuk/?locale=en_US)
