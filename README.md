@@ -1,4 +1,6 @@
-## CV
+## CV 
+> CV in pdf format in both English and Russian can be found above in this repo
+
 Hello. My name is Sergey Kushneryuk
 
 <img src="./images/me.jpg " alt="drawing" width="150"/>
