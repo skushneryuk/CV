@@ -1,9 +1,10 @@
-## CV 
-> CV in pdf format in both English and Russian can be found above in this repo
+## skushneryuk's CV
 
 Hello. My name is Sergey Kushneryuk
 
 <img src="./images/me.jpg " alt="drawing" width="150"/>
+
+#### This repo contains my CVs in both [English](./CV_Sergey_Kushneryuk_eng.pdf) and [Russian](./CV_Sergey_Kushneryuk_rus.pdf) which can be found above or by just clicking corresponding links
 
 ### A little bit about myself:
  * Third grade student at [MIPT (Moscow Institute of Physics and Technology)](https://mipt.ru/english/), Applied Mathematics and Computer Science program, Department of Image Recognition and Text Processing founded by [ABBYY](https://abbyy.com/)
