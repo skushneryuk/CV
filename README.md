@@ -17,7 +17,7 @@ Hello. My name is Sergey Kushneryuk
  * Summer internship in [Meteum.AI team](https://meteum.ai/b2b/home) as MLE - Python, Tensorflow, SQL, etc.
  
  * Took part in several competitive programming contests, for example 1/4 ICPC and Regional stage of All-Russian School Olympiad
- > Considering last three points, I have a significant experience of using C++/Python and strong knowledge of Data structures and Algorithms
+ > Considering last three points, I have a significant experience of using C++/Python, creating complex DL models in production and strong knowledge of Data structures and Algorithms
  * Experience of using multiple other technologies, all of them are mentioned in my [CV](./CV_English.pdf) ([Russian version](./CV_Russian.pdf))
 
 ### My interests:
