@@ -13,8 +13,8 @@ Hello. My name is Sergey Kushneryuk
 
  > Considering last three points, I have a significant experience of using Python and multiple ML/DS libraries, such as NumPy, SciPy, Pandas, Catboost/XGBoost/LightGBM, PyTorch, Sklearn, etc. And R also
 
- * Summer internship in [Yandex](https://yandex.ru/) ([Yandex.Weather team](https://yandex.com/pogoda/meteum)) as SWE - C++, Go, Python. You could say that Yandex is a "russian Google"
- * Summer internship in [Meteum.AI team](https://meteum.ai/b2b/home) as SWE - Python, Tensorflow, SQL
+ * Summer internship in [Yandex](https://yandex.ru/) ([Yandex.Weather team](https://yandex.com/pogoda/meteum)) as SWE - C++, Go, Python. One can say Yandex is a "Russian Google"
+ * Summer internship in [Meteum.AI team](https://meteum.ai/b2b/home) as MLE - Python, Tensorflow, SQL, etc.
  
  * Took part in several competitive programming contests, for example 1/4 ICPC and Regional stage of All-Russian School Olympiad
  > Considering last three points, I have a significant experience of using C++/Python and strong knowledge of Data structures and Algorithms
