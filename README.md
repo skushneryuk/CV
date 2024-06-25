@@ -15,6 +15,9 @@ Hello. My name is Sergey Kushneryuk
  * Second grade student at [Yandex School of Data Analysis](https://yandexdataschool.com/), Machine learning developer academic program 
 
 ### Working experience
+ * Summer 2024 - Internship at [Tinkoff AI Center](https://meteum.ai/b2b/home), Applied NLP Team, as MLE - Python, Pytorch, Transformers.
+   * Training of NER models for text anonimization (names, telephone numbers, addresses, etc.)
+   * Development of system for text clusterization (project on Semi-supervised clusterization of texts for summer practice at Skoltech)
  * Summer 2022 - Internship at [Meteum.AI team](https://meteum.ai/b2b/home) as MLE - Python, Tensorflow, SQL, etc.
    * Conducting experiments on improvement of short-term precipitation prediction model (nowcasting) with users’ reports
    * Analysis of weather forecasting for business task
@@ -23,11 +26,16 @@ Hello. My name is Sergey Kushneryuk
  * 2020 - 2021 - Tutor on competitive programming for school students (basic Algorithms and Data Structures, Python, C++) and preparation for school students state exam in maths
 
 ### Other experience
- * Took part in several competitive programming contests, for example 1/2 ICPC (Northern Eurasia Finals), 1/4 ICPC (Moscow Regional Contest) and Regional stage of All-Russian School Olympiad
- * Experience of using multiple other technologies, all of them are mentioned in my [CV](./CV_English.pdf) ([Russian version](./CV_Russian.pdf))
+ * Took part in several competitive programming contests and different olympiads:
+   * 1/2 ICPC (Northern Eurasia Finals)
+   * 1/4 ICPC (Moscow Regional Contest)
+   * All-Russian university student Olympiad "I am Professional" in Maths (winner)
+   * All-Russian university student Olympiad "I am Professional" in AI (medalist)
+   * Multiple awards in All-Russian school student Olympiads in Maths, Physics and Programming during school years
+ * Experience of using multiple technologies, both from SWE and MLE worlds. All of them are mentioned in my [CV](./CV_English.pdf) ([Russian version](./CV_Russian.pdf))
 
 ### My interests:
- * Generative modeling: GANs, Diffusion models
+ * Generative modeling: Diffusion models, GANs
  * Anything with "time":
    * Time series and Random processes, Markov Chains
    * Stochastic analysis and SDEs
@@ -35,9 +43,9 @@ Hello. My name is Sergey Kushneryuk
  * Other stuff: competitive programming, functional programming, theoretical ML, maths, etc
 
 ### What I am looking for:
- * **TOP PRIORITY: Summer internship in IT/DS/ML for Industrial Immersion at Skoltech in Summer 2024**
- * Job after graduation (end of MSc program in summer 2025)
- * Interesting research projects to work on
+ * **TOP PRIORITY: Phd program in Generative AI (Diffusion models, Schrödinger Bridge, Optimal Transport) after graduation from MSc program in 2025**
+ * (alternatively) Job after graduation from MSc program
+ * Research projects in Generative AI, Diffusion models and Optimal transport
 
 ### My contacts
  * [Mail](mailto:skushneryuk@gmail.com)
