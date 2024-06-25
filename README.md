@@ -15,7 +15,7 @@ Hello. My name is Sergey Kushneryuk
  * Second grade student at [Yandex School of Data Analysis](https://yandexdataschool.com/), Machine learning developer academic program 
 
 ### Working experience
- * Summer 2024 - Internship at [Tinkoff AI Center](https://meteum.ai/b2b/home), Applied NLP Team, as MLE - Python, Pytorch, Transformers.
+ * Summer 2024 - Internship at [Tinkoff AI Center](\href{https://github.com/tinkoff-ai), Applied NLP Team, as MLE - Python, Pytorch, Transformers.
    * Training of NER models for text anonimization (names, telephone numbers, addresses, etc.)
    * Development of system for text clusterization (project on Semi-supervised clusterization of texts for summer practice at Skoltech)
  * Summer 2022 - Internship at [Meteum.AI team](https://meteum.ai/b2b/home) as MLE - Python, Tensorflow, SQL, etc.
