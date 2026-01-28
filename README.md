@@ -4,7 +4,7 @@ This repository contains my [CV](./CV_Sergey_Kushneryuk_eng_0126.pdf) (updated J
 
 <figure>
     <img src="./images/me_irl.jpg" alt="Photo from Master's graduation ceremony" width=250/>
-    <figcaption><i>Master's graduation ceremony, Skoltech/HSE</i></figcaption>
+    <figcaption><i>Master's graduation ceremony, Skoltech/HSE, Summer 2025</i></figcaption>
 </figure>
 
 ## 🔍 Current Focus
