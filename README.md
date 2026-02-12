@@ -1,4 +1,4 @@
-# Sergey Kushneryuk | Gen AI and Machine Learning Research Scientist
+# Sergey Kushneryuk | Generative Modelling and Machine Learning Researcher
 
 This repository contains my [CV](./CV_Sergey_Kushneryuk_eng_0226.pdf) (updated February 2026) and additional information about my background and research interests.
 
