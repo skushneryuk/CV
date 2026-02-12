@@ -1,6 +1,6 @@
 # Sergey Kushneryuk | Gen AI and Machine Learning Research Scientist
 
-This repository contains my [CV](./CV_Sergey_Kushneryuk_eng_0126.pdf) (updated January 2026) and additional information about my background and research interests.
+This repository contains my [CV](./CV_Sergey_Kushneryuk_eng_0226.pdf) (updated February 2026) and additional information about my background and research interests.
 
 <figure>
     <img src="./images/me_irl.jpg" alt="Photo from Master's graduation ceremony" width=250/>
@@ -64,7 +64,7 @@ D. Selikhanovych, D. Li, A. Leonov, N. Gushchin, **S. Kushneriuk**, A. Filippov,
 - **Email:** [skushneryuk@gmail.com](mailto:skushneryuk@gmail.com)
 - **Telegram:** [@skushneryuk](https://t.me/skushneryuk)
 - **LinkedIn:** [skushneryuk](https://www.linkedin.com/in/skushneryuk/)
-- **CV:** [Download PDF](./CV_Sergey_Kushneryuk_eng_0126.pdf)
+- **CV:** [Download PDF](./CV_Sergey_Kushneryuk_eng_0226.pdf)
 
 ## 📝 Note
 *My official name (passport) is Sergei Kushneriuk, but I commonly use Sergey Kushneryuk.*
